@@ -4,7 +4,7 @@
 Simple file server for golang
 
 
-Just run the binary with the arguments and server a directory
+Just run the binary with the arguments and serve a directory, handy when you just need to grab some files
 
 
 
